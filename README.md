@@ -92,16 +92,6 @@ businesses improve sales strategy during the festive season.
 
 ---
 
-## 📁 Project Files
-
-| File | Description |
-|------|-------------|
-| [Diwali_Sales_Project.ipynb](Diwali_Sales_Project.ipynb) | Main EDA notebook |
-| [Diwali_Sales_Data.csv](Diwali_Sales_Data.csv) | Raw dataset |
-| [Diwali_Sales_Project.pdf](Diwali_Sales_Project.pdf) | PDF export of notebook |
-
----
-
 ## 👤 Author
 **Aditya Kumar**  
 Data Analyst | [GitHub](https://github.com/adityak024)
